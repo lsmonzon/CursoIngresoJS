@@ -1,9 +1,11 @@
 /*
+Monzon,Lucas Sebastian Div H
+E/S 01
 Al presionar el  botón, 
 se debe mostrar un mensaje como el siguiente "Esto funciona de maravilla"*/
 
 //constant for the message to display
-const DISPLAY_MESSAGE = 'Esto funciona de maravilla'
+const DISPLAY_MESSAGE = 'Esto funciona de maravilla';
 function mostrar()
 {
 	alert(DISPLAY_MESSAGE);
